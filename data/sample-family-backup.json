@@ -1,0 +1,3722 @@
+{
+  "app": "family-health-wellness-copilot",
+  "schema_version": 1,
+  "exported_at": "2026-10-18T09:28:12",
+  "warning": "Contains personal health information. Store it somewhere private.",
+  "settings": {
+    "units": "US (lb, in)",
+    "is_sample": true
+  },
+  "profiles": [
+    {
+      "name": "Alex",
+      "age_group": "Adult (20+)",
+      "birth_year": 1984,
+      "notes": "Synthetic sample adult",
+      "origin": "Sample"
+    },
+    {
+      "name": "Jordan",
+      "age_group": "Adult (20+)",
+      "birth_year": 1987,
+      "notes": "Synthetic sample adult",
+      "origin": "Sample"
+    },
+    {
+      "name": "Maya",
+      "age_group": "Teen (13–19)",
+      "birth_year": 2012,
+      "notes": "Synthetic sample teen",
+      "origin": "Sample"
+    },
+    {
+      "name": "Leo",
+      "age_group": "Child (2–12)",
+      "birth_year": 2018,
+      "notes": "Synthetic sample child",
+      "origin": "Sample"
+    }
+  ],
+  "habits": [
+    {
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "days_per_week": 7,
+      "active": true,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "days_per_week": 5,
+      "active": true,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "days_per_week": 5,
+      "active": true,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "days_per_week": 4,
+      "active": true,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "days_per_week": 5,
+      "active": true,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "days_per_week": 7,
+      "active": true,
+      "origin": "Sample"
+    }
+  ],
+  "habit_log": [
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Alex",
+      "habit": "Water with each meal",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Alex",
+      "habit": "10-minute stretch",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Jordan",
+      "habit": "Lights out by 23:00",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Jordan",
+      "habit": "Walk after dinner",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Maya",
+      "habit": "Screens off 30 min before bed",
+      "done": true,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Leo",
+      "habit": "Brush teeth twice",
+      "done": true,
+      "origin": "Sample"
+    }
+  ],
+  "food_prefs": [
+    {
+      "profile": "Alex",
+      "likes": "Lentil dishes, salads",
+      "allergies": null,
+      "restrictions": null,
+      "max_prep_minutes": 30,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "likes": "Fish, rice bowls",
+      "allergies": "almond",
+      "restrictions": null,
+      "max_prep_minutes": 25,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "likes": "Pasta, smoothies",
+      "allergies": null,
+      "restrictions": "Vegetarian",
+      "max_prep_minutes": null,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Leo",
+      "likes": "Pasta, bananas",
+      "allergies": null,
+      "restrictions": null,
+      "max_prep_minutes": null,
+      "origin": "Sample"
+    }
+  ],
+  "meal_plan": [
+    {
+      "day": "Mon",
+      "meal": "Breakfast",
+      "for_whom": "Everyone",
+      "dish": "Overnight oats",
+      "prep_minutes": 10,
+      "ingredients": "Oats 160 g; Milk 500 ml; Bananas 2",
+      "origin": "Sample"
+    },
+    {
+      "day": "Mon",
+      "meal": "Dinner",
+      "for_whom": "Everyone",
+      "dish": "Lentil curry with rice",
+      "prep_minutes": 35,
+      "ingredients": "Lentils 400 g; Rice 300 g; Spinach 100 g; Onion 1",
+      "origin": "Sample"
+    },
+    {
+      "day": "Tue",
+      "meal": "Lunch",
+      "for_whom": "Alex",
+      "dish": "Bean and veggie bowl",
+      "prep_minutes": 15,
+      "ingredients": "Black beans 1 can; Carrots 2; Rice 150 g",
+      "origin": "Sample"
+    },
+    {
+      "day": "Tue",
+      "meal": "Dinner",
+      "for_whom": "Everyone",
+      "dish": "Salmon, sweet potato and broccoli",
+      "prep_minutes": 30,
+      "ingredients": "Salmon 600 g; Sweet potatoes 4; Broccoli 1 bunch",
+      "origin": "Sample"
+    },
+    {
+      "day": "Wed",
+      "meal": "Breakfast",
+      "for_whom": "Everyone",
+      "dish": "Yogurt bowl with almonds",
+      "prep_minutes": 5,
+      "ingredients": "Greek yogurt 680 g; Almonds 60 g; Bananas 2",
+      "origin": "Sample"
+    },
+    {
+      "day": "Wed",
+      "meal": "Dinner",
+      "for_whom": "Everyone",
+      "dish": "Pasta with spinach",
+      "prep_minutes": 25,
+      "ingredients": "Pasta 450 g; Spinach 150 g; Olive oil 2 tbsp",
+      "origin": "Sample"
+    },
+    {
+      "day": "Thu",
+      "meal": "Dinner",
+      "for_whom": "Everyone",
+      "dish": "Roast chicken with carrots",
+      "prep_minutes": 45,
+      "ingredients": "Chicken breast 0.8 kg; Carrots 6; Olive oil 1 tbsp",
+      "origin": "Sample"
+    },
+    {
+      "day": "Fri",
+      "meal": "Lunch",
+      "for_whom": "Maya",
+      "dish": "Veggie wrap",
+      "prep_minutes": 5,
+      "ingredients": "Veggie wraps 2",
+      "origin": "Sample"
+    },
+    {
+      "day": "Sat",
+      "meal": "Breakfast",
+      "for_whom": "Everyone",
+      "dish": "Eggs and toast",
+      "prep_minutes": 15,
+      "ingredients": "Eggs 8; Whole-wheat bread 8 slices",
+      "origin": "Sample"
+    },
+    {
+      "day": "Sun",
+      "meal": "Dinner",
+      "for_whom": "Everyone",
+      "dish": "Black bean tacos",
+      "prep_minutes": 20,
+      "ingredients": "Black beans 2 cans; Tortillas 1 pack; Salsa",
+      "origin": "Sample"
+    }
+  ],
+  "meal_log": [
+    {
+      "date": "2026-10-18",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-18",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Veggie wrap (store-bought)",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Veggie wrap (store-bought)",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Greek yogurt",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Greek yogurt",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Veggie wrap (store-bought)",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Veggie wrap (store-bought)",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Greek yogurt",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "meal": "Snack",
+      "food": "Greek yogurt",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Veggie wrap (store-bought)",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Greek yogurt",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Salmon, cooked",
+      "portions": null,
+      "grams": 120.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "meal": "Breakfast",
+      "food": "Banana",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "meal": "Dinner",
+      "food": "Chicken breast, roasted",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "meal": "Breakfast",
+      "food": "Oats, dry",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Apple",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Broccoli",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "meal": "Dinner",
+      "food": "Black beans, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "Lentils, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "meal": "Lunch",
+      "food": "White rice, cooked",
+      "portions": 1.0,
+      "grams": null,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "meal": "Snack",
+      "food": "Trail mix",
+      "portions": null,
+      "grams": null,
+      "notes": "Not in the food list yet",
+      "origin": "Sample"
+    }
+  ],
+  "custom_foods": [
+    {
+      "name": "Veggie wrap (store-bought)",
+      "kcal": 210.0,
+      "protein_g": 7.0,
+      "carbs_g": 30.0,
+      "fat_g": 7.0,
+      "fiber_g": null,
+      "portion": "1 wrap",
+      "portion_g": 150.0,
+      "source_note": "Sample package label: fiber not listed",
+      "origin": "Sample"
+    }
+  ],
+  "nutrition_goals": [
+    {
+      "profile": "Alex",
+      "kcal": null,
+      "protein_g": 90.0,
+      "fiber_g": 30.0,
+      "notes": "Own goal: more fiber",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "kcal": null,
+      "protein_g": null,
+      "fiber_g": 25.0,
+      "notes": "Own goal",
+      "origin": "Sample"
+    }
+  ],
+  "activity_log": [
+    {
+      "date": "2026-10-18",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 8187,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 10.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 6042,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 15.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 6466,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 6650,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 8572,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 15.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 20.0,
+      "steps": 8333,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 8064,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 10.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 8464,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 20.0,
+      "steps": 7486,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 8474,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 7912,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-26",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 12.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-26",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-25",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 5513,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-24",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 8031,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-24",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-24",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 12.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-23",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 6147,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-23",
+      "profile": "Maya",
+      "activity_type": "Activity",
+      "minutes": 60.0,
+      "steps": null,
+      "notes": "Soccer practice",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-22",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 6757,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-22",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 15.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-21",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 40.0,
+      "steps": 9610,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-21",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-20",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 8183,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-19",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 10304,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-19",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 10.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-18",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 9354,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-17",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 7872,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-17",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-17",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 12.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-16",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 8644,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-15",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 6625,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-15",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 12.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-14",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 20.0,
+      "steps": 7689,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-14",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-13",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 9951,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-12",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 9009,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-12",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 15.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-11",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 35.0,
+      "steps": 6590,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-10",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 30.0,
+      "steps": 9422,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-10",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-10",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 15.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-09",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 7742,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-08",
+      "profile": "Alex",
+      "activity_type": "Walking",
+      "minutes": 25.0,
+      "steps": 6407,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-08",
+      "profile": "Jordan",
+      "activity_type": "Mobility",
+      "minutes": 10.0,
+      "steps": null,
+      "notes": "Stretching video",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-07",
+      "profile": "Alex",
+      "activity_type": "Strength",
+      "minutes": 20.0,
+      "steps": null,
+      "notes": "Bodyweight circuit",
+      "origin": "Sample"
+    }
+  ],
+  "activity_goals": [
+    {
+      "profile": "Alex",
+      "weekly_minutes": 150.0,
+      "strength_sessions": 2,
+      "mobility_sessions": 1,
+      "daily_steps": 7000,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "weekly_minutes": 90.0,
+      "strength_sessions": 0,
+      "mobility_sessions": 3,
+      "daily_steps": null,
+      "origin": "Sample"
+    }
+  ],
+  "activity_templates": [
+    {
+      "profile": "Alex",
+      "name": "Brisk walk",
+      "activity_type": "Walking",
+      "days": "Mon, Tue, Thu, Sat",
+      "start_date": "2026-10-04",
+      "minutes": 25.0,
+      "weekly_step": 5.0,
+      "cap_minutes": 40.0,
+      "notes": "Add 5 min a week, stop at 40",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Alex",
+      "name": "Bodyweight strength",
+      "activity_type": "Strength",
+      "days": "Mon, Thu",
+      "start_date": "2026-10-04",
+      "minutes": 20.0,
+      "weekly_step": 0.0,
+      "cap_minutes": 20.0,
+      "notes": "Squats, wall push-ups, rows",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "name": "Gentle stretching",
+      "activity_type": "Mobility",
+      "days": "Tue, Thu, Sat",
+      "start_date": "2026-09-27",
+      "minutes": 10.0,
+      "weekly_step": 2.0,
+      "cap_minutes": 20.0,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "name": "Soccer practice",
+      "activity_type": "Activity",
+      "days": "Wed, Sat",
+      "start_date": "2026-09-20",
+      "minutes": 60.0,
+      "weekly_step": 0.0,
+      "cap_minutes": 60.0,
+      "notes": "Team schedule",
+      "origin": "Sample"
+    }
+  ],
+  "sleep_plan": [
+    {
+      "profile": "Alex",
+      "target_bedtime": "23:00",
+      "target_wake": "06:45",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Jordan",
+      "target_bedtime": "23:30",
+      "target_wake": "07:15",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "target_bedtime": "22:00",
+      "target_wake": "06:45",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Leo",
+      "target_bedtime": "20:30",
+      "target_wake": "06:45",
+      "origin": "Sample"
+    }
+  ],
+  "sleep_log": [
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "bedtime": "00:34",
+      "wake_time": "06:43",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 5,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Jordan",
+      "bedtime": "23:21",
+      "wake_time": "07:19",
+      "est_sleep_hours": null,
+      "energy": 2,
+      "mood": 5,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Maya",
+      "bedtime": "22:45",
+      "wake_time": "06:46",
+      "est_sleep_hours": 7.7,
+      "energy": 2,
+      "mood": 5,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "bedtime": "00:28",
+      "wake_time": "07:03",
+      "est_sleep_hours": 6.0,
+      "energy": 5,
+      "mood": 5,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Jordan",
+      "bedtime": "23:57",
+      "wake_time": "07:11",
+      "est_sleep_hours": 6.9,
+      "energy": 4,
+      "mood": 5,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Maya",
+      "bedtime": "21:53",
+      "wake_time": "06:37",
+      "est_sleep_hours": 8.4,
+      "energy": 2,
+      "mood": 3,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Alex",
+      "bedtime": "00:30",
+      "wake_time": "06:52",
+      "est_sleep_hours": 6.0,
+      "energy": 5,
+      "mood": 5,
+      "stress": 1,
+      "notes": "Late work call",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Jordan",
+      "bedtime": "23:37",
+      "wake_time": "07:27",
+      "est_sleep_hours": 7.3,
+      "energy": 5,
+      "mood": 5,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-15",
+      "profile": "Maya",
+      "bedtime": "22:06",
+      "wake_time": "06:41",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 3,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Alex",
+      "bedtime": "00:14",
+      "wake_time": "06:28",
+      "est_sleep_hours": 5.8,
+      "energy": 5,
+      "mood": 3,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-14",
+      "profile": "Jordan",
+      "bedtime": "00:11",
+      "wake_time": "07:13",
+      "est_sleep_hours": null,
+      "energy": 2,
+      "mood": 2,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Alex",
+      "bedtime": "23:51",
+      "wake_time": "06:41",
+      "est_sleep_hours": 6.5,
+      "energy": 5,
+      "mood": 4,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Jordan",
+      "bedtime": "23:17",
+      "wake_time": "06:55",
+      "est_sleep_hours": 7.0,
+      "energy": 4,
+      "mood": 3,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Maya",
+      "bedtime": "22:27",
+      "wake_time": "06:54",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Alex",
+      "bedtime": "00:16",
+      "wake_time": "06:31",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 4,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Jordan",
+      "bedtime": "23:48",
+      "wake_time": "07:21",
+      "est_sleep_hours": 7.0,
+      "energy": 4,
+      "mood": 2,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-12",
+      "profile": "Maya",
+      "bedtime": "22:23",
+      "wake_time": "07:00",
+      "est_sleep_hours": 8.0,
+      "energy": 3,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Jordan",
+      "bedtime": "00:03",
+      "wake_time": "07:16",
+      "est_sleep_hours": 6.6,
+      "energy": 2,
+      "mood": 4,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-11",
+      "profile": "Maya",
+      "bedtime": "21:52",
+      "wake_time": "06:50",
+      "est_sleep_hours": 8.6,
+      "energy": 5,
+      "mood": 2,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "bedtime": "23:14",
+      "wake_time": "06:57",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 3,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Jordan",
+      "bedtime": "00:07",
+      "wake_time": "07:22",
+      "est_sleep_hours": 6.7,
+      "energy": 4,
+      "mood": 4,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Maya",
+      "bedtime": "21:53",
+      "wake_time": "06:59",
+      "est_sleep_hours": 8.7,
+      "energy": 5,
+      "mood": 4,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "bedtime": "22:56",
+      "wake_time": "06:45",
+      "est_sleep_hours": 7.5,
+      "energy": 4,
+      "mood": 4,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Jordan",
+      "bedtime": "23:23",
+      "wake_time": "07:03",
+      "est_sleep_hours": 7.2,
+      "energy": 3,
+      "mood": 5,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Maya",
+      "bedtime": "21:49",
+      "wake_time": "06:38",
+      "est_sleep_hours": 8.5,
+      "energy": 4,
+      "mood": 5,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Alex",
+      "bedtime": "23:21",
+      "wake_time": "06:39",
+      "est_sleep_hours": null,
+      "energy": 4,
+      "mood": 4,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Jordan",
+      "bedtime": "23:55",
+      "wake_time": "07:05",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 3,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-08",
+      "profile": "Maya",
+      "bedtime": "22:05",
+      "wake_time": "06:48",
+      "est_sleep_hours": null,
+      "energy": 4,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Alex",
+      "bedtime": "22:58",
+      "wake_time": "06:38",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 4,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Jordan",
+      "bedtime": "23:45",
+      "wake_time": "07:19",
+      "est_sleep_hours": 7.0,
+      "energy": 5,
+      "mood": 2,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-07",
+      "profile": "Maya",
+      "bedtime": "22:16",
+      "wake_time": "06:43",
+      "est_sleep_hours": 8.2,
+      "energy": 5,
+      "mood": 2,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Alex",
+      "bedtime": "22:40",
+      "wake_time": "06:50",
+      "est_sleep_hours": 7.9,
+      "energy": 4,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Maya",
+      "bedtime": "22:24",
+      "wake_time": "06:55",
+      "est_sleep_hours": 8.1,
+      "energy": 5,
+      "mood": 5,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Alex",
+      "bedtime": "23:35",
+      "wake_time": "06:38",
+      "est_sleep_hours": 6.6,
+      "energy": 2,
+      "mood": 3,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Jordan",
+      "bedtime": "23:17",
+      "wake_time": "07:03",
+      "est_sleep_hours": 7.5,
+      "energy": 5,
+      "mood": 5,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-05",
+      "profile": "Maya",
+      "bedtime": "22:02",
+      "wake_time": "06:52",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Alex",
+      "bedtime": "23:23",
+      "wake_time": "06:50",
+      "est_sleep_hours": 6.9,
+      "energy": 5,
+      "mood": 2,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-04",
+      "profile": "Jordan",
+      "bedtime": "00:07",
+      "wake_time": "07:24",
+      "est_sleep_hours": 7.0,
+      "energy": 4,
+      "mood": 4,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Alex",
+      "bedtime": "23:18",
+      "wake_time": "07:01",
+      "est_sleep_hours": 7.3,
+      "energy": 2,
+      "mood": 2,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Jordan",
+      "bedtime": "23:48",
+      "wake_time": "06:55",
+      "est_sleep_hours": 6.6,
+      "energy": 2,
+      "mood": 4,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Alex",
+      "bedtime": "22:47",
+      "wake_time": "06:46",
+      "est_sleep_hours": 7.7,
+      "energy": 5,
+      "mood": 5,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Jordan",
+      "bedtime": "23:37",
+      "wake_time": "07:06",
+      "est_sleep_hours": 7.2,
+      "energy": 5,
+      "mood": 5,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Alex",
+      "bedtime": "23:00",
+      "wake_time": "06:54",
+      "est_sleep_hours": 7.7,
+      "energy": 4,
+      "mood": 4,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-01",
+      "profile": "Jordan",
+      "bedtime": "23:36",
+      "wake_time": "07:13",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 5,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Alex",
+      "bedtime": "22:58",
+      "wake_time": "06:54",
+      "est_sleep_hours": 7.4,
+      "energy": 3,
+      "mood": 4,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-30",
+      "profile": "Jordan",
+      "bedtime": "23:38",
+      "wake_time": "07:19",
+      "est_sleep_hours": 7.1,
+      "energy": 3,
+      "mood": 3,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Alex",
+      "bedtime": "23:09",
+      "wake_time": "06:30",
+      "est_sleep_hours": null,
+      "energy": 2,
+      "mood": 5,
+      "stress": 1,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Jordan",
+      "bedtime": "23:21",
+      "wake_time": "07:28",
+      "est_sleep_hours": 7.6,
+      "energy": 5,
+      "mood": 5,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Alex",
+      "bedtime": "23:09",
+      "wake_time": "06:41",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 2,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-28",
+      "profile": "Jordan",
+      "bedtime": "00:03",
+      "wake_time": "07:06",
+      "est_sleep_hours": null,
+      "energy": 4,
+      "mood": 2,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Alex",
+      "bedtime": "23:26",
+      "wake_time": "06:48",
+      "est_sleep_hours": 6.8,
+      "energy": 5,
+      "mood": 5,
+      "stress": 3,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-27",
+      "profile": "Jordan",
+      "bedtime": "23:58",
+      "wake_time": "07:08",
+      "est_sleep_hours": null,
+      "energy": 3,
+      "mood": 3,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-26",
+      "profile": "Alex",
+      "bedtime": "23:23",
+      "wake_time": "06:29",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 5,
+      "stress": 2,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-25",
+      "profile": "Alex",
+      "bedtime": "22:38",
+      "wake_time": "06:45",
+      "est_sleep_hours": 7.6,
+      "energy": 5,
+      "mood": 2,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-22",
+      "profile": "Alex",
+      "bedtime": "23:34",
+      "wake_time": "06:30",
+      "est_sleep_hours": null,
+      "energy": 4,
+      "mood": 4,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-21",
+      "profile": "Alex",
+      "bedtime": "23:27",
+      "wake_time": "06:58",
+      "est_sleep_hours": null,
+      "energy": 5,
+      "mood": 4,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-20",
+      "profile": "Alex",
+      "bedtime": "22:38",
+      "wake_time": "06:29",
+      "est_sleep_hours": 7.3,
+      "energy": 3,
+      "mood": 2,
+      "stress": 4,
+      "notes": null,
+      "origin": "Sample"
+    }
+  ],
+  "measurements": [
+    {
+      "date": "2026-07-04",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 187.6,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-10",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.6,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-11",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 187.0,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-18",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 186.7,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-20",
+      "profile": "Maya",
+      "measure": "Height",
+      "value": 158.0,
+      "value2": null,
+      "unit": "cm",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-24",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.7,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-07-25",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 186.9,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-01",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 186.3,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-07",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.4,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-08",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 186.3,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-19",
+      "profile": "Leo",
+      "measure": "Height",
+      "value": 128.0,
+      "value2": null,
+      "unit": "cm",
+      "notes": "Well-child visit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-19",
+      "profile": "Leo",
+      "measure": "Weight",
+      "value": 26.4,
+      "value2": null,
+      "unit": "kg",
+      "notes": "Well-child visit",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-08",
+      "profile": "Alex",
+      "measure": "Height",
+      "value": 70.0,
+      "value2": null,
+      "unit": "in",
+      "notes": "At clinic",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-08",
+      "profile": "Alex",
+      "measure": "Waist",
+      "value": 36.0,
+      "value2": null,
+      "unit": "in",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-12",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 184.5,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-18",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.3,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-18",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 132.0,
+      "value2": 79.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-19",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 184.2,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-22",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 123.0,
+      "value2": 75.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-25",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 132.0,
+      "value2": 78.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-26",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 184.4,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-09-29",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 118.0,
+      "value2": 86.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.1,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-02",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 126.0,
+      "value2": 84.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-03",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 183.9,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-06",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 126.0,
+      "value2": 81.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-09",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 132.0,
+      "value2": 84.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-10",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 184.6,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-13",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 122.0,
+      "value2": 77.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Jordan",
+      "measure": "Weight",
+      "value": 63.8,
+      "value2": null,
+      "unit": "kg",
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-16",
+      "profile": "Alex",
+      "measure": "Blood pressure",
+      "value": 125.0,
+      "value2": 81.0,
+      "unit": "mmHg",
+      "notes": "Home cuff, seated, morning",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-17",
+      "profile": "Alex",
+      "measure": "Weight",
+      "value": 184.8,
+      "value2": null,
+      "unit": "lb",
+      "notes": null,
+      "origin": "Sample"
+    }
+  ],
+  "visits": [
+    {
+      "date": "2026-09-08",
+      "profile": "Alex",
+      "clinician": "Dr. Rivera (primary care, sample)",
+      "reason": "Annual check-up",
+      "summary": "Routine visit. Asked to track blood pressure at home.",
+      "follow_up": "Return in about 6 weeks with home readings",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-08-19",
+      "profile": "Leo",
+      "clinician": "Pediatric clinic (sample)",
+      "reason": "Well-child visit",
+      "summary": "Growth measured. Flu vaccine given.",
+      "follow_up": "Schedule eye exam",
+      "origin": "Sample"
+    }
+  ],
+  "vaccinations": [
+    {
+      "date": "2026-08-19",
+      "profile": "Leo",
+      "vaccine": "Influenza (seasonal)",
+      "dose_note": "This season",
+      "given_at": "Pediatric clinic (sample)",
+      "next_due": null,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-05-21",
+      "profile": "Maya",
+      "vaccine": "HPV",
+      "dose_note": "Dose 1",
+      "given_at": "Pediatric clinic (sample)",
+      "next_due": "2026-11-07",
+      "origin": "Sample"
+    },
+    {
+      "date": "2025-09-13",
+      "profile": "Alex",
+      "vaccine": "Tdap",
+      "dose_note": null,
+      "given_at": "Pharmacy (sample)",
+      "next_due": null,
+      "origin": "Sample"
+    }
+  ],
+  "instructions": [
+    {
+      "date": "2026-09-08",
+      "profile": "Alex",
+      "clinician": "Dr. Rivera (sample)",
+      "instruction": "Check blood pressure at home twice a week, seated, and bring the log to the next visit.",
+      "until": "2026-10-20",
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-04-01",
+      "profile": "Maya",
+      "clinician": "Dr. Okafor (sample)",
+      "instruction": "Follow the written asthma action plan from the clinic. Keep the inhaler in the sports bag.",
+      "until": null,
+      "origin": "Sample"
+    }
+  ],
+  "medications": [
+    {
+      "profile": "Jordan",
+      "medication": "Levothyroxine (sample)",
+      "prescribed_schedule": "As printed on the pharmacy label: once each morning",
+      "prescriber": "Dr. Chen",
+      "schedule_confirmed": true,
+      "refill_date": "2026-10-23",
+      "active": true,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Maya",
+      "medication": "Albuterol inhaler (sample)",
+      "prescribed_schedule": "As written in the asthma action plan",
+      "prescriber": "Dr. Okafor",
+      "schedule_confirmed": true,
+      "refill_date": "2026-11-27",
+      "active": true,
+      "notes": "Check expiry date",
+      "origin": "Sample"
+    },
+    {
+      "profile": "Alex",
+      "medication": "Vitamin D (sample)",
+      "prescribed_schedule": null,
+      "prescriber": null,
+      "schedule_confirmed": false,
+      "refill_date": null,
+      "active": true,
+      "notes": "Ask at next visit whether to continue",
+      "origin": "Sample"
+    }
+  ],
+  "appointments": [
+    {
+      "date": "2026-10-20",
+      "time": "10:30",
+      "profile": "Alex",
+      "with_whom": "Dr. Rivera (primary care, sample)",
+      "purpose": "Blood pressure follow-up",
+      "location": "Main St clinic",
+      "prep_done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-10-27",
+      "time": "15:45",
+      "profile": "Leo",
+      "with_whom": "Family dentist (sample)",
+      "purpose": "Cleaning",
+      "location": null,
+      "prep_done": false,
+      "origin": "Sample"
+    },
+    {
+      "date": "2026-11-07",
+      "time": "09:00",
+      "profile": "Maya",
+      "with_whom": "Pediatric clinic (sample)",
+      "purpose": "HPV dose 2",
+      "location": null,
+      "prep_done": false,
+      "origin": "Sample"
+    }
+  ],
+  "care_tasks": [
+    {
+      "due_date": "2026-10-20",
+      "profile": "Alex",
+      "task": "Bring home blood pressure log to appointment",
+      "confirmed": true,
+      "done": false,
+      "notes": "From clinician instruction",
+      "origin": "Sample"
+    },
+    {
+      "due_date": "2026-10-23",
+      "profile": "Jordan",
+      "task": "Pick up prescription refill",
+      "confirmed": true,
+      "done": false,
+      "notes": null,
+      "origin": "Sample"
+    },
+    {
+      "due_date": "2026-10-15",
+      "profile": "Leo",
+      "task": "Schedule eye exam",
+      "confirmed": true,
+      "done": false,
+      "notes": "Follow-up from well-child visit",
+      "origin": "Sample"
+    },
+    {
+      "due_date": "2026-10-24",
+      "profile": "Maya",
+      "task": "Return school sports form",
+      "confirmed": false,
+      "done": false,
+      "notes": "Check whether the school still needs it",
+      "origin": "Sample"
+    }
+  ],
+  "questions": [
+    {
+      "profile": "Alex",
+      "for_appointment": "Blood pressure follow-up",
+      "question": "Am I taking home readings the right way?",
+      "asked": false,
+      "origin": "Sample"
+    },
+    {
+      "profile": "Alex",
+      "for_appointment": "Blood pressure follow-up",
+      "question": "Should I keep taking vitamin D?",
+      "asked": false,
+      "origin": "Sample"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+
+# Secrets (this app needs none, but never commit them)
+.env
+.streamlit/secrets.toml
+
+# Personal health data and exports: never commit these.
+# Backups, CSV exports, calendar files, prep sheets and PDFs downloaded from the app
+# can contain sensitive health information.
+*.json
+*.csv
+*.ics
+*.pdf
+*.txt
+!requirements.txt
+!data/sample-family-backup.json
+exports/
+my-data/
+personal/
+
+# OS
+.DS_Store
+Thumbs.db
